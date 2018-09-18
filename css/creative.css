@@ -34,7 +34,10 @@ a:hover {
   color: #f05f40;
 }
 
-h1,
+h1 {
+font-family: cursive;
+}
+
 h2,
 h3,
 h4,
@@ -53,6 +56,8 @@ h6 {
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
+  font-size: 24;
+  
 }
 
 section {
